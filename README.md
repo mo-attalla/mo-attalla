@@ -18,14 +18,16 @@
 
 ---
 
-### 🚀 Featured Projects:
-| Project | Description | Live Demo | Repo |
-|----------|--------------|------------|------|
-| 💌 **Gift Website** | A fun interactive “gift” site made with HTML, CSS & JS | [Live Demo](#) | [Code](#) |
-| 🎨 **Portfolio Template** | A personal portfolio design built with Bootstrap 5 | [Live Demo](#) | [Code](#) |
-| 🧠 **Machine Learning for Kids Slides** | AI-powered presentation generator | [Live Demo](#) | [Code](#) |
+### 🌐 My Website:
+<p align="center">
+  <a href="https://mo-attalla.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-> _(Replace `#` with your actual project links later.)_
+<p align="center">
+  💜 A creative, animated gift-style website designed with love, smooth transitions, and interactive effects.
+</p>
 
 ---
 
